@@ -1,0 +1,7 @@
+# Handle go build
+aoss-verifier
+
+# User-specific configuration
+# If a fixed path should be committed then opt-out from ignore
+.vscode
+__debug**
